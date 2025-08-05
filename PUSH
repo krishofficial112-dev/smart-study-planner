@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Smart Study Planner"
+git branch -M main
+git remote add origin https://github.com/yourusername/smart-study-planner.git
+git push -u origin main
